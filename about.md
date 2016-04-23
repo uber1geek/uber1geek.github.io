@@ -5,9 +5,9 @@ permalink: /about/
 published: true
 ---
 
-> We know we are special, yet we keep trying to find out in what way: not this way, not that way, then what way.
+"""We know we are special, yet we keep trying to find out in what way: not this way, not that way, then what way."""
 
-### Ok Fine I'll Admit It.
+### Fine I'll Admit It.
 
 I’m passionate about the web, programming, user experience, customer driven development, whilst continually improving as a community manager.
 
