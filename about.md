@@ -5,8 +5,10 @@ permalink: /about/
 published: true
 ---
 
+```javascript
+var life = "We know we are special, yet we keep trying to find out in what way: not this way, not that way, then what way.";
+alert(life);
 ```
-We know we are special, yet we keep trying to find out in what way: not this way, not that way, then what way.```
 
 ### Fine I'll Admit It.
 
