@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am up and running!
+title: "Hello World !"
+published: true
 ---
-
-Hello World !
+Anything i could do in this life someone else can do or has already done and probably better than me. 
