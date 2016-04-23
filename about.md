@@ -2,13 +2,26 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+> We know we are special, yet we keep trying to find out in what way: not this way, not that way, then what way.
+
+
+### Fine I'll Admit It.
+
+I’m passionate about the web, programming, user experience, customer driven development, whilst continually improving as a community manager.
+
+I'm also the guy who'll fix your broken computer. 
+
+I grew up in Srinagar, Kashmir  which is a really beautiful place, even though there’s a really good chance you’ll freeze to death here or be hit by a stray bullet.
+
+
 
 ### More Information
 
-A place to include any other types of information.
+Current Status:
+Regional Head - [Google Developers Group Kashmir](http://www.gdgkashmir.com). 
 
 ### Contact me
 
