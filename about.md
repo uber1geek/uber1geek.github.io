@@ -10,7 +10,7 @@ var life = "We know we are special, yet we keep trying to find out in what way: 
 alert(life);
 ```
 
-### Fine I'll Admit It.
+``` Fine I'll Admit It.```
 
 I’m passionate about the web, programming, user experience, customer driven development, whilst continually improving as a community manager.
 
@@ -20,12 +20,12 @@ I grew up in Srinagar, Kashmir  which is a really beautiful place, even though t
 
 
 
-### Current Status:
+``` Current Status:```
 
 Regional Head - [Google Developers Group Kashmir](http://www.gdgkashmir.com). 
 
 I’m currently [available](mailto:zaid@gtugs.org) for hire.
 
-### Contact me
+``` Contact me ```
 
 [zaid@gtugs.org](mailto:zaid@gtugs.org)
