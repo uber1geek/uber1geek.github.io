@@ -1,9 +1,6 @@
 ---
-published: false
----
----
 layout: post
-title: "Hello World !"
+title: "Slipstream Life Hacking !"
 published: true
 ---
 
