@@ -21,7 +21,7 @@ I grew up in Srinagar, Kashmir  which is a really beautiful place, even though t
 
 Regional Head - [Google Developers Group Kashmir](http://www.gdgkashmir.com). 
 
-I’m currently [**available**(mailto:zaid@gtugs.org)] for hire.
+I’m currently [available](mailto:zaid@gtugs.org) for hire.
 
 ### Contact me
 
