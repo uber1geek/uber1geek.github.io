@@ -16,8 +16,7 @@ I’m passionate about the web, programming, user experience, customer driven de
 
 I'm also the guy who'll fix your broken computer. 
 
-I grew up in Srinagar, Kashmir  which is a really beautiful place, even though there’s a really good chance you’ll freeze to death here or get struck by a ~~stray bullet.
-
+I grew up in Srinagar, Kashmir  which is a really beautiful place, even though there’s a really good chance you’ll freeze to death here or get struck by a ~~stray bullet~~.
 
 
 ### Current Status:
