@@ -7,7 +7,6 @@ published: true
 print """Anything i could do in this life someone else can do 
          or has already done and probably better than me."""
 ```
-
-![]({{site.baseurl}}/http://beyondhelloworld.in/images/2.jpg)
+[image]: "http://beyondhelloworld.in/images/2.jpg"
 
 I would like to ask you, why does the toast always land the butter side down?
