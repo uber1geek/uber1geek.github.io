@@ -5,7 +5,7 @@ published: true
 ---
 
 There is a good chance that you may have dropped a buttered toast atleast once in your life, you might have observed that the toast always lands the butter side down, creating a greasy mess on your table or the floor. Why does it always land the butter side down? 
-Well, a team of researchers from Manchester MET University dropped 100 slices from table and found the [answer](http://www.dailymail.co.uk/sciencetech/article-2410532/Why-toast-falls-butter-Scientists-finally-uncover-reason--height-table.html).
+Well, a team of researchers from Manchester MET University dropped 100 slices from the table and have found the [answer](http://www.dailymail.co.uk/sciencetech/article-2410532/Why-toast-falls-butter-Scientists-finally-uncover-reason--height-table.html).
 
 > Guess who's involved? Uhmm.. 
 It's Mr.Somersault.
