@@ -38,7 +38,7 @@ If you don’t get better, you break bones and have to stop. If you learn from y
 If you don’t get better, you break bones and have to stop. If you learn from your mistakes with the help of teachers, you stop bleeding.
 
 
---- This post is under process, more information is being added as it strikes. ---
+- - - _This post is under process, more information is being added as it strikes._ - - -
 
 
 
