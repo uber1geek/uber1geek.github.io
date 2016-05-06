@@ -12,10 +12,11 @@ The next thing you know, you’re standing on a hillside in Tibet shaving a yak 
 
 
 
-Deliberate Practice
+**Deliberate Practice**
 Thanks to “Outliers” by Malcolm Gladwell, people mistakenly think if they practice something for 10,000 hours they will become great at it.
-Anders Ericsson, the professor who first theorized on the 10,000 hour rule, corrected me on this. “It’s not practice, but deliberate practice.”
-“You have to have feedback as quickly as possible. 10,000 hours with a teacher, with constant feedback, is critical.”
+[Anders Ericsson](http://www.amazon.com/dp/0544456238/?tag=jamesaltuc-20), the professor who first theorized  the 10,000 hour rule, has me corrected  on this. “It’s not practice, but deliberate practice.” He says.
+>“You have to have feedback as quickly as possible. 10,000 hours with a teacher, with constant feedback, is critical.”
+
 What better feedback than skateboarding? You skate, you make a mistake, you fall, you bleed. Repeat.
 If you don’t get better, you break bones and have to stop. If you learn from your mistakes with the help of teachers, you stop bleeding.
 With business it’s more difficult. It can take years for a business to fail or succeed. So you don’t get that instant feedback.
