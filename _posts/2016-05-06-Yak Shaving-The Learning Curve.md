@@ -1,5 +1,5 @@
 ---
-published: false
+published: True
 ---
 ## Yak Shaving - The Learning Curve
 
@@ -14,4 +14,4 @@ The next thing you know, you’re standing on a hillside in Tibet shaving a yak 
 
 
 
-*With inputs from Mir Nazim, Malcom Gladwell and Others.
+*With inputs from Mir Nazim, Malcom Gladwell and others.
