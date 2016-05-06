@@ -35,7 +35,6 @@ What better feedback than skateboarding? You skate, you make a mistake, you fall
 
 If you don’t get better, you break bones and have to stop. If you learn from your mistakes with the help of teachers, you stop bleeding.
 
-If you don’t get better, you break bones and have to stop. If you learn from your mistakes with the help of teachers, you stop bleeding.
 
 
 - - - _This post is under process, more information is being added as it strikes._ - - -
