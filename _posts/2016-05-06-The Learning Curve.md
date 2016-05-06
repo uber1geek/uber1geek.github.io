@@ -29,11 +29,11 @@ Thanks to “Outliers” by Malcolm Gladwell, people mistakenly think if they pr
 
 [Anders Ericsson](http://www.amazon.com/dp/0544456238/?tag=jamesaltuc-20), the professor who first theorized  the 10,000 hour rule, has me corrected  on this. “It’s not practice, but deliberate practice.” He says.
 
->“You have to have feedback as quickly as possible. 10,000 hours with a teacher, with constant feedback, is critical.”
+>“You have to have feedback as quickly as possible. 10,000 hours with a mentor, with constant feedback, is critical.”
 
 What better feedback than skateboarding? You skate, you make a mistake, you fall, you bleed. Repeat.
 
-If you don’t get better, you break bones and have to stop. If you learn from your mistakes with the help of teachers, you stop bleeding.
+If you don’t get better, you break bones and have to stop. If you learn from your mistakes with the help of you coach, you stop bleeding.
 
 
 
