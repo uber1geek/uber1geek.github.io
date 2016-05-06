@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Slipstream Life Hacking"
+title: Slipstream Life Hacking
 published: true
 ---
 
@@ -11,6 +11,7 @@ Well, a team of researchers from Manchester MET University dropped 100 slices fr
 It's Mr.Somersault.
 
 Scientists say toast falls butter side down because it only has time to rotate half a somersault before landing. Well I don't want to go into details of the Butter Toast Theory, my main purpose was to lay emphasis on failure, As you sail though the journey of life, you will realize failure's are evident, dropping the toast on floor is a failure but what do you do after that? you go and make yourself a new one. 
+
 I have failed to pass a test quite a few times during my graduation, primarily due to other occupations and my dis-interest in mainstream academia but then what did i do?
 
 I didn't lose hope, I made the effort to appear again.
