@@ -36,9 +36,9 @@ What better feedback than skateboarding? You skate, you make a mistake, you fall
 If you don’t get better, you break bones and have to stop. If you learn from your mistakes with the help of you coach, you stop bleeding.
 
 
-
-- - - _This post is a draft, more information is being added as it strikes._ - - -
-
+```
+This post is a draft, more information is being added as it strikes.
+```
 
 
 _*With inputs from Mir Nazim, and others._
