@@ -16,7 +16,7 @@ The next thing you know, you’re standing on a hillside in Tibet shaving a yak 
 
 In his book "Outliers - The Story of Success", author Malcolm Gladwell says that it takes roughly ten thousand hours of practice to achieve mastery in a field. He went on to study the life of highly successful people to find out how they achieved success.
 
-As per Gladwell's research: We could choose a field, practice it for 10,000 hours and voila !
+As per Gladwell's research: We could choose a field, practice it for 10,000 hours and voila!
 You ahve mastered the skills.
 
 By now you already know the mantra of success, It’s that simple: Drop out of college, start a company, and become a billionaire, right? 
