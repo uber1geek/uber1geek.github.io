@@ -41,4 +41,4 @@ If you don’t get better, you break bones and have to stop. If you learn from y
 
 
 
-_*With inputs from Mir Nazim, Anders Ericsson and Malcom Gladwell._
+_*With inputs from Mir Nazim, and others._
