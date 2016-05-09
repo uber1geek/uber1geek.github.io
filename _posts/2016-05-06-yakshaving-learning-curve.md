@@ -35,6 +35,10 @@ What better feedback than skateboarding? You skate, you make a mistake, you fall
 
 If you don’t get better, you break bones and have to stop. If you learn from your mistakes with the help of you coach, you stop bleeding.
 
+If you are thinking about a starting a business it become more difficult. It can take years for a business to fail or succeed. So you don’t get that instant feedback.
+
+So the best approach to get better at something like business, or writing, or anything, you have to break it up into small chunks that teach you quickly how not to fail.
+
 
 ```
 This post is a draft, more information is being added as it strikes.
