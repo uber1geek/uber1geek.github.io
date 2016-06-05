@@ -43,7 +43,9 @@ So the best approach to get better at something like business, or writing, or an
 
 ![SteepLearningCurve_Uber1Geek.jpg]({{site.baseurl}}/images/SteepLearningCurve_Uber1Geek.jpg)
 
-Optimised learning curve refers to the steepest learning curve. A good way to identify the steepest learning curve is to look out for the most difficult task at hand. Choose difficult task and keep yourself constantly under pressure.
+Optimised learning curve refers to the steepest learning curve. 
+A good way to identify the steepest learning curve is to look out for the most difficult task at hand. Choose difficult task and keep yourself constantly under pressure.
+
 One needs to find the right balance between being under pressure and the stress at the same time and fine tune it to your likeness.
 
 For example when you have multiple tasks for perform, choose one with the most imminent deadline. You can beat procrastination like this.
