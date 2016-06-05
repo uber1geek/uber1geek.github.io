@@ -50,8 +50,8 @@ A good way to identify the steepest learning curve is to look out for the most d
 This post is a draft, more information is being added as it strikes.
 ```
 
-
+_*Illustrations by Arwa Khalid._
 _*With inputs from Mir Nazim and others._
 
-_*Illustrations by Arwa Khalid._
+
 
