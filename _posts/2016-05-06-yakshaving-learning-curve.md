@@ -50,10 +50,23 @@ A good way to identify the steepest learning curve is to look out for the most d
 
 For example when you have multiple tasks for perform, choose one with the most imminent deadline. You can beat procrastination like this.
 
+Another sign for spotting steepness is unfamiliarity with the "body of knowledge" under consideration. If you keep practicing things that you're already good at, you're not actually learning much, you are just stuck in a vortex. Sometimes, constant work in a single area is required - like for domain experts who want to dive deeper, but for most learners (especially undergrads) this is not true. 
+
+![graph_of_learning.jpg]({{site.baseurl}}/images/graph_of_learning.jpg)
 
 
-_*Illustrations by Arwa Khalid._
-_*With inputs from Mir Nazim and others._
+
+When choosing a problem you have 3 choices :
+1. You already know how to solve it (Comfort Zone)
+2. You don't know how to solve it, but you know what to learn in order to solve it (Learning Zone)
+3. You are clueless and have no idea about the problem (Panic Zone)
+
+
+Another important thing is to realize when to leave a particular learning activity. Learning something new and interesting is often like reading a thriller novel - We find it boring first, then we are totally into it and at the end all the secrets are exposed. You need to know when to stop reading that novel. You need not become a world expert at everything. Your expertise should be 'T' Shaped - Knows a bit about a lot of things and knows a lot about a something. Change your niche when you think you're not learning enough.
 
 
 
+
+_*Illustrations by Arwa Khalid and Natasha Wani._
+
+_*With inputs from Mir Nazim, Jeyanthan Inbasekaran and others._
