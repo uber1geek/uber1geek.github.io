@@ -55,7 +55,6 @@ Another sign for spotting steepness is unfamiliarity with the "body of knowledge
 ![graph_of_learning.jpg]({{site.baseurl}}/images/graph_of_learning.jpg)
 
 
-
 When choosing a problem you have 3 choices :
 
 1. You already know how to solve it (Comfort Zone)
