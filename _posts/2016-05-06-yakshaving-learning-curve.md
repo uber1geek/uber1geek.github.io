@@ -44,6 +44,7 @@ So the best approach to get better at something like business, or writing, or an
 ![SteepLearningCurve_Uber1Geek.jpg]({{site.baseurl}}/images/SteepLearningCurve_Uber1Geek.jpg)
 
 
+A good way to identify the steepest learning curve is to look out for the most difficult task at hand. Choose difficult task and keep yourself constantly under pressure.
 
 ```
 This post is a draft, more information is being added as it strikes.
