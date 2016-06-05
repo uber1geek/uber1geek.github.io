@@ -41,7 +41,7 @@ So the best approach to get better at something like business, or writing, or an
 
 **Optimising The Learning Curve**
 
-![SteepLearningCurve_Uber1Geek.jpg]({{site.baseurl}}/_posts/SteepLearningCurve_Uber1Geek.jpg)
+![SteepLearningCurve_Uber1Geek.jpg]({{site.baseurl}}/images/SteepLearningCurve_Uber1Geek.jpg)
 
 
 
