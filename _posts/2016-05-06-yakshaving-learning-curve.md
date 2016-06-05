@@ -40,6 +40,7 @@ If you are thinking about a starting a business it become more difficult. It can
 So the best approach to get better at something like business, or writing, or anything, you have to break it up into small chunks that teach you quickly how not to fail.
 
 **Optimising The Learning Curve**
+
 ![SteepLearningCurve_Uber1Geek.jpg]({{site.baseurl}}/_posts/SteepLearningCurve_Uber1Geek.jpg)
 
 
