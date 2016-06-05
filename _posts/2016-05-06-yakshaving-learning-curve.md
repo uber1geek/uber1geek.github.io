@@ -57,6 +57,7 @@ Another sign for spotting steepness is unfamiliarity with the "body of knowledge
 
 
 When choosing a problem you have 3 choices :
+
 1. You already know how to solve it (Comfort Zone)
 2. You don't know how to solve it, but you know what to learn in order to solve it (Learning Zone)
 3. You are clueless and have no idea about the problem (Panic Zone)
