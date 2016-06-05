@@ -69,6 +69,6 @@ You need to know when to stop reading that novel. You need not become a world ex
 
 
 
-_*Illustrations by Arwa Khalid and Natasha Wani._
+_*Illustrations by Natasha Wani and Arwa Khalid._
 
 _*With inputs from Mir Nazim, Jeyanthan Inbasekaran and others._
