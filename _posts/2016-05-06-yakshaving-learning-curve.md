@@ -63,7 +63,9 @@ When choosing a problem you have 3 choices :
 3. You are clueless and have no idea about the problem (Panic Zone)
 
 
-Another important thing is to realize when to leave a particular learning activity. Learning something new and interesting is often like reading a thriller novel - We find it boring first, then we are totally into it and at the end all the secrets are exposed. You need to know when to stop reading that novel. You need not become a world expert at everything. Your expertise should be 'T' Shaped - Knows a bit about a lot of things and knows a lot about a something. Change your niche when you think you're not learning enough.
+Another important thing is to realize when to leave a particular learning activity. Learning something new and interesting is often like reading a thriller novel - We find it boring first, then we are totally into it and at the end all the secrets are exposed. 
+
+You need to know when to stop reading that novel. You need not become a world expert at everything. Your expertise should be 'T' Shaped - Knows a bit about a lot of things and knows a lot about a something. Change your niche when you think you're not learning enough.
 
 
 
