@@ -71,4 +71,4 @@ You need to know when to stop reading that novel. You need not become a world ex
 
 _*Illustrations by Arwa Khalid and Natasha Wani ._
 
-_*With inputs from Mir Nazim, Jeyanthan Inbasekaran and others._
+_*With inputs from Mir Nazim._
