@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Mathematically Yours <3"
+published: true
 ---
 ## Mathematically Yours <3
 
