@@ -4,7 +4,8 @@ title: "Mathematically Yours <3 "
 published: true
 ---
 {% highlight ruby %}
-"Mathematically Yours is a place where I will chronicle my journey as a humanoid."
+"Mathematically Yours is a place where "
+"I will chronicle my journey as a humanoid."
 {% endhighlight %}
 
 
