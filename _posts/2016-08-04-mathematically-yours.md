@@ -19,9 +19,9 @@ I was fairly good with maths ... untill I decided to become an engineer and like
 
 ```python
 print "Yeh kaali kaali aankhein"
- 2√2 , 2√2
+     >  2√2 , 2√2
 print "Yeh gorey gorey gaal"
- 2√2 , 2√2
+     >   2√2 , 2√2
 ```
 
 
