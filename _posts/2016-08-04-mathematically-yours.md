@@ -19,9 +19,9 @@ I was fairly good with maths ... untill I decided to become an engineer and like
 
 {% highlight ruby %}
 "Yeh Kaali Kaali Aankhein "
-" √2 , √2 "
+" 2√2 , 2√2 "
 "Yeh Gore Gore Gaal"
-" √2 , √2 "
+" 2√2 , 2√2 "
 {% endhighlight %}
 
 
