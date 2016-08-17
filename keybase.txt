@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/uber1geek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ubergeek.me
+  * I am uber1geek (https://keybase.io/uber1geek) on keybase.
+  * I have a public key with fingerprint FB9A 2BFE 6A48 7A80 AB72  641C FC16 3362 3E41 6B10
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101bee41c07d69dc6b932ce8a22e6b9b7ebb2a27f92c274f04aa9b54dbf0da394bd0a",
+            "fingerprint": "fb9a2bfe6a487a80ab72641cfc1633623e416b10",
+            "host": "keybase.io",
+            "key_id": "fc1633623e416b10",
+            "kid": "0101bee41c07d69dc6b932ce8a22e6b9b7ebb2a27f92c274f04aa9b54dbf0da394bd0a",
+            "uid": "c7ffd3b489f44b2dcae66412e2d82319",
+            "username": "uber1geek"
+        },
+        "service": {
+            "hostname": "ubergeek.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471411642,
+    "expire_in": 157680000,
+    "prev": "9d306de0cd6cad053c124d2216764e63c5dadf84d7e1a6a85cd5d36353a5d933",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJdSBVBFL6mZiqSIf0Q1sNGEXGz3ZnZ2V2hSCqKIpIyRKwuMzuz1029
+97r3Xn8yoV/6AeslSlLJhDBJKfIhNY2yHwsFy1CUwl5CiiK9UVRE1KwU9NBj8zJz
+znzfd75zOA/S4j0pcZ7e/JstUtlU3MC9C1FPfsfn7mqJBlmVlF0tFfOZi5cwHo74
+im0mZUuyIiuUc6SYssawwUxMDQhMrhMAuHhTjVMKCNAsA5hAQ5aMCDGoihi1ZEag
+gSiTieSVLDvg507IsQMRIWtRgwBqcUyQrhFdJlQDWBSxTAVDiAEUFTFVZEEsCoZd
+hjBHSZhn2UGRE4Fvxt4/8P/Zd3RGztQsi0GKdMNCiAJmEo6FX8AB0wFUDBcY5k6A
+lHKBjlLuKH7Oi6UaryTS5bbJ3cm6rfwFcRFZIvJKIScYCZrBEvFRFImEsl1epCrk
+Ais49f2W8FE7wMQYBaGcO2E7GJCyFYE0I7arqSBNQYqCEfBKvDJkO9xnuwhVw7os
+jluGlwtJg0EZMy6bDJuEySo0FYAYAArWMOIYmiojzNIR07hCMNFVk6kMYqhCojID
+QsltqiwQFNpQ+CR+oRm2/QESiTpcqum7uyfBE5fimZ04y90vT0py+p+t+7Ao6Wcu
+vfK4QK//OP7dW/G8wsgtOL3iUOBoZbT69jbf+ZexlVVFP+KX3XHIz9U5Q8rxffLG
+2NYxo2neFl/3t3WdUVCf7Du198qr+EvpGempVmxT7cF5vVkt5GtD3fxHXT+uFkyp
+qYU3CpMyEjOXjDuX5ZGUW63vnz28rhaemT955OK08a59lbp2Q2riRCdc3pp3vS/3
+WAGtzklr6qkfzDrZ8/bL2Tmj7Q3NSY2725zj+d13hptHtdlr1u+vK6uVOwYXjnSs
+XVrzpGHB/UbclzD6evJAaUf65u2HkzLTBtpC+edOxPy1ue0PdnyaO+zNm+5/MTS2
+E5X312cu7rmGJp62xbruvdn1C5MURGo=
+=vlC5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/uber1geek
+
+==================================================================
+
