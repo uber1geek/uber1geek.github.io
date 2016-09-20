@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mathematically Yours <3 '
-published: true
+published: false
 ---
 {% highlight ruby %}
 "Mathematically Yours is a place where ... "
