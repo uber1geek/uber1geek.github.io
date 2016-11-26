@@ -13,7 +13,7 @@ alert(life);
 
 ### Fine I'll Admit It.
 
-CS major, Avid Learner, Python coder, Data Analysis & Visualization, Open Source supporter.
+CS major, Python coder, Data Analysis & Visualization, Open Source supporter.
 
 I’m passionate about programming, user experience, customer driven development, whilst continually improving as a community manager.
 
