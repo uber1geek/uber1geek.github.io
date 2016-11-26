@@ -13,7 +13,7 @@ alert(life);
 
 ### Fine I'll Admit It.
 
-I’m passionate about the programming, user experience, web, customer driven development, whilst continually improving as a community manager.
+I’m passionate about programming, user experience, web, customer driven development, whilst continually improving as a community manager.
 
 I'm also the guy who'll fix your broken computer. 
 
