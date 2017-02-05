@@ -71,6 +71,8 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
+  
+  ampdir: YOURDIR
 
 # Use the following plug-ins
 gems:
@@ -86,4 +88,3 @@ exclude:
   - README.md
   - CNAME
   
-  ampdir: YOURDIR
