@@ -87,7 +87,4 @@ exclude:
   - CNAME
  
  #
-url: https://ubergeek.me
-enforce_ssl: ubergeek.me
-  
   
