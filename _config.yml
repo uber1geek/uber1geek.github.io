@@ -53,6 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
+
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
@@ -84,4 +85,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+ 
+ #
+url: https://ubergeek.me
+enforce_ssl: ubergeek.me
+  
   
