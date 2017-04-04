@@ -14,8 +14,7 @@ alert(life);
 
 ### Fine I'll Admit It.
 
-CS major, Python coder, Data Analysis & Visualization, FOSS evangelist 
-and a Google Developer Group Lead.
+CS major, Python coder, Data Analysis & Visualization, FOSS evangelist       and a Google Developer Group Lead.
 
 I’m passionate about programming, user experience and communities. 
 
