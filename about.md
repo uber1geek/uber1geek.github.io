@@ -6,16 +6,19 @@ published: true
 ---
 
 ```javascript
-var life = "We know we are special, yet we keep trying to find out in what way: 
+var life = "We know we are special, 
+             yet we keep trying to find out in what way: 
             not this way, not that way, then what way.";
 alert(life);
 ```
 
 ### Fine I'll Admit It.
 
-CS major, Python coder, Data Analysis & Visualization, Open Source supporter.
+CS major, Python coder, Data Analysis & Visualization, Open Source supporter and a Google Developer Group Lead.
 
-I’m passionate about programming, user experience, customer driven development, whilst continually improving as a community manager.
+I’m passionate about programming, user experience and communities. 
+
+Focused on performance oriented development of web-services and back-end components using Django and other Python-related technologies.
 
 I'm also the guy who'll fix your broken computer. 
 
