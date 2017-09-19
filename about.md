@@ -31,4 +31,4 @@ I’m currently [available](mailto:hire@ubergeek.me) for hire.
 
 ### Contact me
 
-[iam@ubergeek.me](mailto:iam@ubergeek.me)
+[hello@ubergeek.me](mailto:hello@ubergeek.me)
