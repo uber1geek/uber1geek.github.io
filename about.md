@@ -27,8 +27,8 @@ I grew up in Srinagar, Kashmir, which is a really beautiful place - even though 
 
 ### Current Status:
 
-I’m currently [available](mailto:zaid@gtugs.org) for hire.
+I’m currently [available](mailto:hire@ubergeek.me) for hire.
 
 ### Contact me
 
-[zaid@gtugs.org](mailto:zaid@gtugs.org)
+[iam@ubergeek.me](mailto:iam@ubergeek.me)
