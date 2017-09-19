@@ -22,7 +22,7 @@ Focused on performance oriented development of web-services, and back-end compon
 
 I'm also the guy who'll fix your broken computer. 
 
-I grew up in Srinagar, Kashmir, which is a really beautiful place, even though there’s a really good chance you’ll freeze to death here or get struck by a ~~stray bullet~~.
+I grew up in Srinagar, Kashmir, which is a really beautiful place - even though there’s a really good chance you’ll freeze to death here or get struck by a ~~stray bullet~~.
 
 
 ### Current Status:
