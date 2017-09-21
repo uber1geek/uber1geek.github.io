@@ -9,7 +9,7 @@ In the Django ORM, a database table is tied to a Django ORM model, but it is als
 ### The Regular Models:
 
 This example uses the following regular models. Each model has a database table tied to it.
-```
+``` python
 from django.db import models
 
 
