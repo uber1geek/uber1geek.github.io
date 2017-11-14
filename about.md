@@ -22,7 +22,7 @@ I’m passionate about programming, user experience, and communities. Focused on
 
 I grew up in Srinagar, Kashmir, which is a really beautiful place - even though there’s a really good chance you’ll freeze to death here or get struck by a ~~stray bullet~~.
 
-Learning from life with each passing day. Life is such an amazing gift. Thank God for sapience.
+Learning from life with each passing day. Thank God for sapience.
 
 
 
