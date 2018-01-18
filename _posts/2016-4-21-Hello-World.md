@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello World !"
+permalink: /writings/hello-to-the-world
 published: true
 ---
 
