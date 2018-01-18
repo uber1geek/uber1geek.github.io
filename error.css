@@ -77,11 +77,19 @@ div.figure img {
     line-height: 47px
 }
 
-#errorbox .not-found--links {
+/*#errorbox .not-found--links {
     margin: 48px 0;
     font-size: 14px;
     font-weight: normal;
     line-height: 20px
+}
+*/
+
+#errorbox .not-found--links {
+    margin: 48px 0;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 10px;
 }
 
 #errorbox .not-found--links ul {
