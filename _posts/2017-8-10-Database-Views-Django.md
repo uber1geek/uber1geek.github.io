@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Database Views With Django
+permalink: /writings/database-views-with-django
 published: true
 ---
 

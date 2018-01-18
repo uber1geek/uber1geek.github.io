@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Mathematically Yours <3 '
+permalink: /writings/mathematically-yours
 published: false
 ---
 {% highlight ruby %}
