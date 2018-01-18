@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning to invest in the Indian stock markets with Anurag Bhatia, Part 1
+title: Learning to invest in the Indian stock markets, Part 1
 published: true
 ---
 
