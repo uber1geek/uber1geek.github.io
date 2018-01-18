@@ -19,17 +19,13 @@ body {
     width: 100%
 }
 
-/*@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     body {
+        margin: 400px 0;
         font-size: 38px
     }
-}*/
-
-@media only screen and (max-device-width: 480px) and (min-device-width: 320px) {
-    body {
-    margin: 400px 0;
-    font-size: 38px;
 }
+
 
 div.figure {
     margin: 40px 0 0;
@@ -82,14 +78,6 @@ div.figure img {
     font-weight: lighter;
     line-height: 47px
 }
-
-/*#errorbox .not-found--links {
-    margin: 48px 0;
-    font-size: 14px;
-    font-weight: normal;
-    line-height: 20px
-}
-*/
 
 #errorbox .not-found--links {
     margin: 48px 0;
