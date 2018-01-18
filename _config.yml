@@ -25,7 +25,7 @@ footer-links:
   instagram: 
   linkedin: uber1geek
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: ubergeek # just type anything here for a working RSS icon
   twitter: uber1geek
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: zaidaijaz # channel/<your_long_string> or user/<user-name>
@@ -41,7 +41,6 @@ disqus: uber1geek
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-6199303-7
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://ubergeek.me
 enforce_ssl: ubergeek.me
