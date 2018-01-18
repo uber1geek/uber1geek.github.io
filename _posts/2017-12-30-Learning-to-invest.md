@@ -11,13 +11,13 @@ As days passed by and I settled down to engineer Minance’s tech, which also po
 ![Learning_to_Invest_1.jpg](https://cdn-images-1.medium.com/max/2000/1*xFV64SfNNT0Exf9o5k_Zeg.jpeg)
 
 
-_I decided to go to the best source I knew, Anurag Bhatia._
+>I decided to go to the best source I knew, Anurag Bhatia.
 
 Anurag is Minance’s CEO and a seasoned investor. He asked me to first identify what my investment goal was, essentially a self-evaluation. I’m financially stable, and with no major expenses coming up, hence I can invest for the long term. This let me build corpus while also saving tax on my income.
 
 However as a Muslim, I have certain rules that I have to abide by, which include prohibitions against making money from interest based securities as well as forbidding investments in alcohol, gambling, and firearms.
 
-_Shari’ah compliant investing or Islamic Finance if you will._
+>Shari’ah compliant investing or Islamic Finance if you will.
 
 ![Learning_to_Invest_2.jpg](https://cdn-images-1.medium.com/max/2000/1*pDmRvaSX49aBiIEd669L1w.jpeg)
 
