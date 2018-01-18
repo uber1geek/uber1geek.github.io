@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning To Invest - Part 1
+title: Learning To Invest With Anurag Bhatia - Part 1
 published: true
 ---
 
@@ -19,8 +19,10 @@ Shari’ah compliant investing or Islamic Finance if you will.
 
 >*Zaid*: What is the difference between investment philosophy, and investment strategy ? What should I choose?
 >*Anurag*: Investment philosophy is a set of guiding principles that determine your decision making process. Investment strategy is the method you use to invest. In your case, your investment philosophy should be buying stocks in growth companies and holding them for 3–5 years. Your strategy should be building a portfolio of 15–20 growth stocks after researching them instead of going the mutual fund route.
+
 >*Zaid*: Which is better, yearly lump sum investments or monthly SIP’s?
 >*Anurag*: Empirical studies show that SIPs are always more profitable when the investment timeframe is more than 10 years.
+
 >*Zaid*: Do we have any Shari’ah compliant investment options in India?
 >*Anurag*: No. There has not been much push from RBI or SEBI to bring in Shari’ah compliant investments. There was some chatter from RBI to set up an Islamic Bank but that went nowhere. There’s a Shari’ah compliant mutual fund by TATA though.
 
