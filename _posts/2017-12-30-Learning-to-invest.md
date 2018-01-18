@@ -58,3 +58,9 @@ It has a strong global footprint with improving margins from SAE Towers (gaining
 **India Glycols** holds the distinction of being the only green petrochemical company of its kind. With an annual revenue of $386 million, it is one of the leading manufacturers of glycols, ethoxylates and PEGs, performance chemicals, glycol ethers and acetates, natural gums and potable alcohol. India Glycols is the first and only company in the world to have commercialized the production of ethylene oxide, its derivatives and glycols from renewable agricultural resources. The profit has doubled and margins have improved. Revenue is increasing .
 
 In the next part of this series we will focus on the mathematics of building an efficient portfolio. It will be published soon. Until then, Happy New Year!
+
+...
+
+This article was originally published at [Wonkery](https://wonkery.minance.com/learning-to-invest-in-the-indian-stock-market-with-anurag-bhatia-part-1-4332e051d9d7), Like what you read? Read more Wonkery [here](https://wonkery.minance.com/).
+
+Interested in [Minance](http://www.minance.com)? See how we can help you with wealth management.
