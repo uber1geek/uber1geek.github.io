@@ -61,6 +61,6 @@ In the next part of this series we will focus on the mathematics of building an 
 
 ...
 
-This article was originally published at [Wonkery](https://wonkery.minance.com/learning-to-invest-in-the-indian-stock-market-with-anurag-bhatia-part-1-4332e051d9d7), Like what you read? Read more Wonkery [here](https://wonkery.minance.com/).
+This article was originally published at [Wonkery](https://wonkery.minance.com/learning-to-invest-in-the-indian-stock-market-with-anurag-bhatia-part-1-4332e051d9d7), Like it? Read more Wonkery [here](https://wonkery.minance.com/).
 
 Interested in [Minance](http://www.minance.com)? See how we can help you with wealth management.
