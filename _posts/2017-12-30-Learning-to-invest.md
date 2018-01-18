@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning To Invest - Part 1
+permalink: /writings/learning-to-invest
 published: true
 ---
 
