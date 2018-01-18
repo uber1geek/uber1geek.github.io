@@ -4,6 +4,8 @@ title: Learning To Invest - Part 1
 published: true
 ---
 
+![Learning_to_Invest_1.jpg](https://cdn-images-1.medium.com/max/2000/1*xFV64SfNNT0Exf9o5k_Zeg.jpeg)
+
 At work I am inundated with financial buzz words all the time, It is {code} vs equities, derivatives… Being a tech guy, I knew next to nothing about what was being discussed.
 
 As days passed by and I settled down to engineer Minance’s tech, which also powers our new website(which will be up in a few weeks), mobile apps and web dashboard, my interest towards investing in stock markets grew and the curious cat inside me wanted to dive right in. I was excited. Why did I want to invest? Three reasons. One, learning about investing would help me manage my finances better; two, help me build better products for Minance, and three, save tax. All I needed now was someone to guide my sails.
@@ -16,7 +18,7 @@ However as a Muslim, I have certain rules that I have to abide by, which include
 
 >Shari’ah compliant investing or Islamic Finance if you will.
 
-![Learning_to_Invest.jpg](https://cdn-images-1.medium.com/max/2000/1*pDmRvaSX49aBiIEd669L1w.jpeg)
+![Learning_to_Invest_2.jpg](https://cdn-images-1.medium.com/max/2000/1*pDmRvaSX49aBiIEd669L1w.jpeg)
 
 
 >*Zaid*: What is the difference between investment philosophy, and investment strategy ? What should I choose?
