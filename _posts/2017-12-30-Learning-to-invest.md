@@ -14,7 +14,9 @@ Anurag is Minance’s CEO and a seasoned investor. He asked me to first identify
 
 However as a Muslim, I have certain rules that I have to abide by, which include prohibitions against making money from interest based securities as well as forbidding investments in alcohol, gambling, and firearms.
 
-Shari’ah compliant investing or Islamic Finance if you will.
+>Shari’ah compliant investing or Islamic Finance if you will.
+
+![Learning_to_Invest.jpg](https://cdn-images-1.medium.com/max/2000/1*pDmRvaSX49aBiIEd669L1w.jpeg)
 
 
 >*Zaid*: What is the difference between investment philosophy, and investment strategy ? What should I choose?
