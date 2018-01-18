@@ -7,10 +7,11 @@ layout: default
 
   <div class="entry">
     {{ content }}
+    <br>
+    {% include share-page.html %}
   </div>
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-  {% include share-page.html %}
   {% include disqus.html %}
 </article>
