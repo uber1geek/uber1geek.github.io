@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Learning to invest in the Indian stock markets, Part 1
+title: Learning To Invest - Part 1
 published: true
 ---
 
-**B**efore I begin, let me introduce myself. I am Zaid Hakak, the Lead Backend Engineer at Minance, a private investment firm in Bangalore focused on developing quantitative models for the Indian financial markets. We study historical patterns in order to predict trends and invest in them profitably and safely for our partners.
-
 ### Baby steps
+
 At work I am inundated with financial buzz words all the time, It is {code} vs equities, derivatives… Being a tech guy, I knew next to nothing about what was being discussed.
 
 As days passed by and I settled down to engineer Minance’s tech, which also powers our new website(which will be up in a few weeks), mobile apps and web dashboard, my interest towards investing in stock markets grew and the curious cat inside me wanted to dive right in. I was excited. Why did I want to invest? Three reasons. One, learning about investing would help me manage my finances better; two, help me build better products for Minance, and three, save tax. All I needed now was someone to guide my sails.
